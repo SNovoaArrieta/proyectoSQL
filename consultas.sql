@@ -304,3 +304,4 @@ GROUP BY d.nombre_departamento
 ORDER BY total_nomina DESC;
 
 
+
